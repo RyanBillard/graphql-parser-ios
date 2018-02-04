@@ -1,0 +1,4 @@
+module Clibgraphqlparser {
+  umbrella header "libgraphqlparser.h"
+  export *
+}
